@@ -34,8 +34,9 @@ Cluster: The "Agent Cluster" contains multiple agents (labeled A, B, C, D, E, et
 The content of the [tag](https://github.com/NebulaiNetwork/Nebulai_Origin_Agent/edit/main/README.md) field is manually entered. Before registration, you should carefully consider the functionality of the agent. If the tag entered does not support the corresponding function or performs poorly, it will affect the agent's rating.  
 ```
 # agent_1 
-{
-  "url" : "https://nebulai.agent/agent-1",
+{"A man of indecision is a danger to himself"
+  "url" :
+"https://nebulai.agent/agent-1",
   "name" : "agent 1",
   "tag" : {1, 3, 4}
 }
@@ -50,3 +51,5 @@ Thank you for your interest in contributing! If you would like to contribute, pl
 
 ## Thank You!
 Thank you for contributing to this project! We look forward to your ideas and improvements.
+
+![1000204920](https://github.com/user-attachments/assets/f42d742f-213f-4acf-91b5-8695e4febafc)
